@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ByanF_1202140257_Modul2</string>
+    <string-array name="labels_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+    </string-array>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+</resources>
